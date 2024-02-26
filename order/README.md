@@ -24,34 +24,33 @@ This system consists of three micro-services: Order Service, Menu Service, and U
 
 # Usage
 
-#1 :Prerequisites
+# 1 :Prerequisites
 	-Java 11
 	-Spring Boot
 	-Maven
 	
-#2:Getting Started:
-#- Clone the Repository:  git clone
+# 2:Getting Started:
+# - Clone the Repository:  git clone
 Order Repo- https://github.com/USax12/orderApp
 Menu  Repo- https://github.com/USax12/restaurantApp
 User  Repo- https://github.com/USax12/userApp
 commonLibrary- https://github.com/USax12/commonLibrary
 Eureka -https://github.com/USax12/eurekaApp
 
-#- Build the Project: mvn clean install
+# - Build the Project: mvn clean install
 
-#- Run the Application: mvn spring-boot:run
+# - Run the Application: mvn spring-boot:run
 
-#- Explore APIs: Access the Swagger API documentation for a list of available APIs and their documentation
+# - Explore APIs: Access the Swagger API documentation for a list of available APIs and their documentation
 
 Menu- http://localhost:8081/swagger-ui.html 
 User- http://localhost:8081/swagger-ui.html 
 Order- http://localhost:8083/swagger-ui.html 
 Eureka - http://localhost:9761/
   
-
 Alternatively POSTMAN can be used for better representation and output.
 
-#- Testing:Unit tests are available in the src/test directory. Run tests using the following command: mvn test
+# - Testing:Unit tests are available in the src/test directory. Run tests using the following command: mvn test
 	
 	
 `
