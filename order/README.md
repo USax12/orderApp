@@ -35,7 +35,7 @@ Order Repo- https://github.com/USax12/orderApp  \
 Menu  Repo- https://github.com/USax12/restaurantApp  \
 User  Repo- https://github.com/USax12/userApp   \
 commonLibrary- https://github.com/USax12/commonLibrary  \
-Eureka -https://github.com/USax12/eurekaApp   \
+Eureka -https://github.com/USax12/eurekaApp   
 
 # - Build the Project:
 mvn clean install
@@ -49,7 +49,7 @@ Access the Swagger API documentation for a list of available APIs and their docu
 Menu- http://localhost:8081/swagger-ui.html   \
 User- http://localhost:8081/swagger-ui.html 	\
 Order- http://localhost:8083/swagger-ui.html 	\
-Eureka - http://localhost:9761/		\
+Eureka - http://localhost:9761/		
   
 Alternatively POSTMAN can be used for better representation and output.
 
