@@ -1,4 +1,4 @@
-# Order Management System
+# Restaurant Management System
 
 # Overview
 This system consists of three micro-services: Order Service, Menu Service, and User Service. It allows users to place orders, view menus, and manage user information.
